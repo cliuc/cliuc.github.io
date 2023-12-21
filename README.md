@@ -1,4 +1,5 @@
-<html lang="en">
+<!DOCTYPE HTML>
+<html lang="en-US">
 
 <head>
   <title>Awesome Chris Liu</title>
