@@ -1,6 +1,11 @@
-<html>
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>Awesome Chris Liu</title>
+</head>
+  
 <body>
-<h1>Website of CYL</h1>
 <h2>ON JAH!!!</h2>
 
 <h6>Me</h6>
