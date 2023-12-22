@@ -1,14 +1,19 @@
 <html lang="en-US">
 
 <head>
-  <title>Awesome Chris Liu</title>
+  <title>Personal Endeavor</title>
 </head>
   
 <body>
-<h2>ON JAH!!!</h2>
+<header>
+<h1>Hello!</h1>
+</header>
+<nav>
+  <ul>
+    <li>Hello</li>
+  </ul>
+</nav>
 
-<h6>Me</h6>
-<img src = "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Trollface_non-free.png/220px-Trollface_non-free.png" alt = "HELLO!" height = "500" width = "500">
 
 </body>
 </html>
