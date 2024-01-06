@@ -19,6 +19,7 @@
 </section>
 
 <h2>Cal Poly</h2>
+
 <img src="https://www.calpoly.edu/sites/calpoly.edu/files/2020-01/about-calpoly-aerial.jpg">
 <script src="https://www.amcharts.com/lib/3/ammap.js" type="text/javascript"></script>
 <script src="https://www.amcharts.com/lib/3/maps/js/usaHigh.js" type="text/javascript"></script>
@@ -121,6 +122,46 @@ rollOverOutlineColor : "#000000"
 }
 });
 </script>
+
+<!-- VisitedPlaces.com code -->
+<script>
+// VisitedPlaces.com code
+var visitedplaces_config = {
+  "map": "world",
+  "projection": "geoNaturalEarth1",
+  "theme": "dark-green",
+  "water": 1,
+  "graticule": 0,
+  "names": 1,
+  "duration": 2000,
+  "slider": 0,
+  "autoplay": 0,
+  "autozoom": "none",
+  "data": [
+    {
+      "places": [
+        "CN",
+        "KP",
+        "KR",
+        "AE",
+        "EG",
+        "FR",
+        "IT",
+        "GB",
+        "CA",
+        "MX",
+        "VA"
+      ]
+    }
+  ],
+  "home": "US"
+};
+</script>
+<script src="https://www.visitedplaces.com/js/common.js"></script>
+<script src="https://www.visitedplaces.com/js/viewer.js"></script>
+<div id="chartdiv" style="width: 100%; height: 600px;">
+<!-- end: VisitedPlaces.com code -->
+
 
 </body>
 </html>
