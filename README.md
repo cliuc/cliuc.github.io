@@ -15,7 +15,7 @@
 </nav>
 
 <section id = "home">
-  <h2>This is where my home is. My home! My home address is [redacted]</h2>
+  <h2>hi</h2>
 </section>
 
 <h2>Cal Poly</h2>
